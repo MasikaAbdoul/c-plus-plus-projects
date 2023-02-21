@@ -14,10 +14,8 @@ If you have any questions or suggestions, feel free to reach out to me.
 
 Thank you for visiting!
 
-Accounts : 
+On Web : 
 
-   Twitter : @abdoulmasika
-   
-   Instag- : @masikaabdoul
+   All Links : https://linkmasika.pages.dev
    
    Website : https://masikaabdoul.pages.dev
