@@ -33,6 +33,8 @@ int main()
         if(x == numGenerator())
         {
             cout << "Congratulation ! You Have Luck My Friend.";
+            cout << "You Have Guessed Correctly.\n";
+            cout << "The Number Is : " << x;
             break;
         }
         // Starting From Here Is For The TryHard
@@ -42,7 +44,8 @@ int main()
             cin>> x;
             if(x == numGenerator())
             {
-                cout << "You Have Guessed Correctly.";
+                cout << "You Have Guessed Correctly.\n";
+                cout << "The Number Is : " << x;
             }
         }
         else if(x > numGenerator())
@@ -51,7 +54,8 @@ int main()
             cin>> x;
             if(x == numGenerator())
             {
-                cout << "You Have Guessed Correctly";
+                cout << "You Have Guessed Correctly.\n";
+                cout << "The Number Is : " << x;
             }
         }
     }
