@@ -35,6 +35,7 @@ int main()
             cout << "Congratulation ! You Have Luck My Friend.";
             break;
         }
+        // Starting From Here Is For The TryHard
         else if (x < numGenerator())
         {
             cout << "Too, Low! Guess Again : ";
